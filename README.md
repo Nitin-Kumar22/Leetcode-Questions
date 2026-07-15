@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
