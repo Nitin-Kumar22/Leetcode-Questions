@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0383-ransom-note) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Counting
@@ -113,4 +114,8 @@
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
