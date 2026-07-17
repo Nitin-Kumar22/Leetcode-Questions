@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0706-design-hashmap](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0946-validate-stack-sequences](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0383-ransom-note) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0706-design-hashmap](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -30,6 +32,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0383-ransom-note) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Counting
 |  |
 | ------- |
@@ -37,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
@@ -101,4 +105,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Sorting
+|  |
+| ------- |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 <!---LeetCode Topics End-->
