@@ -13,6 +13,7 @@
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Stack
 |  |
@@ -20,6 +21,7 @@
 | [0946-validate-stack-sequences](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Simulation
 |  |
 | ------- |
@@ -53,10 +55,12 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +119,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Tree
 |  |
 | ------- |
