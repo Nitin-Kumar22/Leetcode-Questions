@@ -20,6 +20,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0537-complex-number-multiplication) |
 | [0946-validate-stack-sequences](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0537-complex-number-multiplication](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0537-complex-number-multiplication) |
 ## Counting
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0537-complex-number-multiplication) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
