@@ -19,6 +19,7 @@
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting
 |  |
 | ------- |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
