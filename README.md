@@ -22,6 +22,7 @@
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0537-complex-number-multiplication](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Counting
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Number Theory
 |  |
 | ------- |
