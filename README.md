@@ -14,6 +14,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Stack
 |  |
@@ -23,6 +24,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -145,4 +148,5 @@
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
