@@ -69,6 +69,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0706-design-hashmap](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0706-design-hashmap) |
 ## Design
 |  |
@@ -88,6 +89,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0537-complex-number-multiplication](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -166,4 +168,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
