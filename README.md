@@ -119,6 +119,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -128,6 +129,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sorting
 |  |
@@ -149,4 +151,12 @@
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
