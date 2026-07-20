@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sorting
 |  |
@@ -155,8 +157,10 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
