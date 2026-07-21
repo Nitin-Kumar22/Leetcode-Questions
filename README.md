@@ -124,10 +124,12 @@
 | [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Tree
@@ -136,6 +138,7 @@
 | [0100-same-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sorting
 |  |
