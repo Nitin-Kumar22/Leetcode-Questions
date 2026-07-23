@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0239-sliding-window-maximum](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -56,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
