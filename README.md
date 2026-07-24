@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
