@@ -9,6 +9,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0946-validate-stack-sequences](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0962-maximum-width-ramp) |
@@ -95,6 +96,7 @@
 | [0029-divide-two-integers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0537-complex-number-multiplication](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sliding Window
@@ -161,6 +163,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
