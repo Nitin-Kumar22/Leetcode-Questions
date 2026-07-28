@@ -51,6 +51,7 @@
 | [0539-minimum-time-difference](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0029-divide-two-integers) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
