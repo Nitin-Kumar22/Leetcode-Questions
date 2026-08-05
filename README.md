@@ -200,6 +200,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
+| [3310-remove-methods-from-project](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Recursion
 |  |
 | ------- |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
