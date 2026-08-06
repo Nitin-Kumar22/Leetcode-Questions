@@ -106,6 +106,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -226,4 +227,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
