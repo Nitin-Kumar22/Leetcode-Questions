@@ -47,6 +47,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0522-longest-uncommon-subsequence-ii) |
