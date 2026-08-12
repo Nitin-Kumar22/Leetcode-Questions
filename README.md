@@ -19,6 +19,7 @@
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0706-design-hashmap](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Queue
 |  |
 | ------- |
