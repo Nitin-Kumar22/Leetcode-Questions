@@ -156,6 +156,7 @@
 | [0563-binary-tree-tilt](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0563-binary-tree-tilt](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/0563-binary-tree-tilt) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Nitin-Kumar22/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
